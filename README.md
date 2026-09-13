@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="./assets/header.png" width="100%" alt="therealJao">
+  <img src="./header.png" width="100%" alt="therealJao">
 </p>
 
 <br>
