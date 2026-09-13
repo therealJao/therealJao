@@ -1,253 +1,162 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=therealJao&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=170&section=header&text=therealJao&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Initializing+therealJao.exe...;Python+%7C+Web+%7C+Systems;Building+ideas+into+real+projects;Learning.+Building.+Improving." alt="Typing Animation"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=therealJao&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Oi%2C+eu+sou+o+Jao+%F0%9F%91%8B;Aprendendo+Python+na+pr%C3%A1tica;Curto+games%2C+PCs+e+tecnologia;Transformando+ideias+em+projetos" alt="Animação de texto"/>
 
 </div>
 
 ---
 
-## `> whoami`
+## 👋 Sobre mim
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                       therealJao                             │
-├──────────────────────────────────────────────────────────────┤
-│ Status       : Learning & Building                           │
-│ Main Focus   : Python + Software Development                 │
-│ Interests    : Games • PCs • Technology • Software           │
-│ Environment  : VS Code • Git • GitHub                        │
-│ Currently    : Building my programming foundation            │
-│ Next Level   : Real-world applications & automation          │
-╰──────────────────────────────────────────────────────────────╯
-```
+Tenho interesse por **programação, computadores, tecnologia e games**.
 
-## 🟣 Sobre Mim
+Atualmente estou focado em aprender **Python**, principalmente lógica de programação e os fundamentos da linguagem. Também já tive contato com **HTML, CSS, PHP, SQL, Java e MySQL** durante meus estudos.
 
-Olá! Eu sou o **therealJao**.
+Ainda estou no começo, então este perfil também serve para registrar minha evolução: os projetos que deram certo, os que deram errado e as coisas que vou aprendendo pelo caminho.
 
-Estou construindo minha jornada na programação, começando pela base e transformando o que aprendo em projetos reais.
-
-Atualmente estou focado principalmente em **Python**, enquanto continuo desenvolvendo conhecimentos em **HTML, CSS, PHP, SQL, Java e MySQL**.
-
-Também curto bastante **games, computadores e tecnologia**, então quero explorar projetos que misturem essas áreas com programação.
-
-Meu objetivo é simples:
-
-> **Aprender a transformar ideias em software funcionando.**
-
-```text
-Learn → Build → Break → Understand → Improve → Repeat
-```
+Gosto especialmente de projetos que tenham alguma utilidade de verdade — ferramentas para PC, sistemas, automações e ideias que possam virar algo maior.
 
 ---
 
-# 🧠 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-Learning-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Programming%20Logic-Learning-A78BFA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-Learning-7C3AED?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Learning-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
-### 📚 My Foundation
+## 🐍 No momento, estou estudando
 
 ```text
 Python
- ├── variables
- ├── input / output
- ├── if / elif / else
- ├── operators
- ├── strings
- ├── numbers
- ├── validation
- └── functions → next
+├── variáveis
+├── input e output
+├── if / elif / else
+├── operadores
+├── strings
+├── números
+├── validações
+└── funções
 
-Web
- ├── HTML
- ├── CSS
- ├── PHP
- └── SQL
-
-Backend / Database
- ├── Java
- └── MySQL
+Também estudando / revisando:
+├── HTML
+├── CSS
+├── PHP
+├── SQL
+├── Java
+└── MySQL
 ```
 
 ---
 
-# ⚡ Tech Stack
-
-### Languages & Technologies
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,php,java,js,mysql&theme=dark" />
-
-</p>
-
-### Development Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark" />
-
-</p>
-
----
-
-# 🛠️ Tools
-
-| Tool            | Purpose                          |
-| --------------- | -------------------------------- |
-| 🐍 Python       | Logic, automation & applications |
-| 💻 VS Code      | Development                      |
-| 🐙 GitHub       | Projects & portfolio             |
-| 🔀 Git          | Version control                  |
-| 🌐 HTML / CSS   | Web interfaces                   |
-| 🗄️ SQL / MySQL | Databases                        |
-| ☕ Java          | Programming studies              |
-| 🎨 Figma        | Interface ideas & design         |
-
----
-
-# 🚀 Projects
-
-## 🖥️ PC Monitor
-
-> A future application focused on monitoring and displaying PC information in a clean interface.
-
-```text
-        PC MONITOR
-
- CPU ───────────────┐
- RAM ───────────────┤
- GPU ───────────────┼──► SYSTEM
- SSD ───────────────┤
- SYSTEM ────────────┘
-```
-
-### Goal
-
-Create a lightweight application capable of displaying important computer information in a simple and modern interface.
-
-**Planned stack:**
-
-`Python` `GUI` `System Information` `Monitoring`
-
----
-
-## 🎬 Cinema Self-Service
-
-A cinema self-service kiosk concept created to practice building a complete system.
-
-```text
-┌───────────────┐
-│    MOVIES     │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│   SESSION     │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    SEATS      │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│   TICKETS     │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│   PAYMENT     │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│ CONFIRMATION  │
-└───────────────┘
-```
-
-**Concepts practiced:**
-
-`Python` `Logic` `Validation` `Interfaces` `Systems`
-
----
-
-## 🌐 Web Projects
-
-Experiments and applications created while learning web development.
-
-```text
-HTML
- ↓
-CSS
- ↓
-PHP
- ↓
-SQL
- ↓
-DATABASE
- ↓
-APPLICATION
-```
-
----
-
-# 💡 Future Projects
-
-```text
-[01] PC Monitor
-[02] Cinema Self-Service
-[03] SaaS for small businesses
-[04] Management systems
-[05] Python automation
-[06] Web applications
-[07] Game-related projects
-[08] Personal experiments
-```
-
----
-
-# 🎯 Current Objectives
-
-```bash
-$ therealJao --status
-
-> Python Fundamentals........... [████████░░] Learning
-> Programming Logic............. [███████░░░] Learning
-> Git & GitHub.................. [█████░░░░░] Learning
-> Web Development............... [██████░░░░] Learning
-> Databases..................... [█████░░░░░] Learning
-
-$ therealJao --next
-
-→ Master Python fundamentals
-→ Improve programming logic
-→ Learn Git properly
-→ Build projects from scratch
-→ Understand my own code
-→ Create real applications
-→ Build a strong portfolio
-→ Keep shipping.
-```
-
----
-
-# 📊 GitHub Stats
+## 💻 Tecnologias
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=therealJao&show_icons=true&hide_border=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,php,java,mysql,git,github,vscode&theme=dark" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealJao&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=C4B5FD"/>
+</div>
+
+<br>
+
+> Algumas dessas tecnologias fazem parte da minha base de estudos e outras ainda estão em processo de aprendizado.
+
+---
+
+## 🔧 O que eu uso
+
+* **VS Code** para programar
+* **Git e GitHub** para organizar meus projetos
+* **Python** para estudar lógica e criar aplicações
+* **MySQL / SQL** para trabalhar com bancos de dados
+* **HTML + CSS + PHP** para projetos web
+
+---
+
+# 🚧 Projetos
+
+## 🖥️ PC Monitor
+
+Uma ideia que quero transformar em um projeto de verdade.
+
+A proposta é criar um programa para mostrar informações importantes do computador de uma maneira simples e organizada.
+
+```text
+┌──────────────────────────────┐
+│          PC MONITOR          │
+├──────────────────────────────┤
+│ CPU      ███████░░░   72%    │
+│ RAM      ██████░░░░░   61%    │
+│ GPU      ████████░░░   84%    │
+│ SSD      ████░░░░░░░   43%    │
+├──────────────────────────────┤
+│ Temperatura • Uso • Sistema  │
+└──────────────────────────────┘
+```
+
+**Ideia:** aprender Python enquanto construo algo que realmente teria utilidade no meu próprio PC.
+
+---
+
+## 🌐 Projetos Web
+
+Tenho interesse em criar projetos web para colocar em prática o que estou estudando.
+
+Algumas ideias envolvem:
+
+* sistemas de gerenciamento
+* pequenos SaaS
+* páginas e ferramentas úteis
+* sistemas conectados a banco de dados
+* projetos para testar novas tecnologias
+
+A ideia é parar de ficar apenas em exercícios e começar a transformar as ideias em projetos completos.
+
+---
+
+# 💭 Ideias que quero tirar do papel
+
+```text
+01 → PC Monitor
+02 → Ferramentas para PC
+03 → Pequenos sistemas
+04 → SaaS para pequenos negócios
+05 → Automações com Python
+06 → Projetos web
+07 → Projetos relacionados a games
+08 → Ideias próprias
+```
+
+---
+
+# 📚 Minha evolução
+
+Uma das coisas que quero manter aqui é o registro da minha evolução na programação.
+
+No começo, coisas simples como:
+
+```python
+nome = input("Qual é seu nome? ")
+```
+
+já eram novidade.
+
+Agora estou começando a entender coisas como:
+
+```python
+if
+elif
+else
+```
+
+validações, tipos de dados, operadores e a lógica por trás dos programas.
+
+Ainda tenho muito para aprender, mas é justamente essa evolução que quero deixar registrada aqui.
+
+---
+
+# 📊 Meu GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=therealJao&show_icons=true&hide_border=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&locale=pt-br"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealJao&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=C4B5FD&locale=pt-br"/>
 
 </div>
 
@@ -255,23 +164,23 @@ $ therealJao --next
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=therealJao&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8" />
+<img src="https://streak-stats.demolab.com?user=therealJao&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&locale=pt_BR"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Atividade
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=therealJao&bg_color=00000000&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=therealJao&bg_color=00000000&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" width="95%"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Conquistas
 
 <div align="center">
 
@@ -281,53 +190,53 @@ $ therealJao --next
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribuições
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therealJao/therealJao/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/therealJao/therealJao/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/therealJao/therealJao/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições" src="https://raw.githubusercontent.com/therealJao/therealJao/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
 ---
 
-# 🎮💻 Interests
+# 🎮 Além do código
 
-<div align="center">
+Quando não estou estudando programação, provavelmente estou mexendo no PC ou jogando alguma coisa.
 
-<img src="https://img.shields.io/badge/Gaming-111827?style=for-the-badge&logo=steam&logoColor=white"/>
-<img src="https://img.shields.io/badge/PC%20Building-111827?style=for-the-badge&logo=amd&logoColor=white"/>
-<img src="https://img.shields.io/badge/Programming-111827?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Technology-111827?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
+```text
+🎮 Games
+🖥️ PCs
+💻 Tecnologia
+🐍 Programação
+🧠 Novas ideias
+```
 
 ---
 
-# 🌐 Connect
+# 📱 Onde me encontrar
 
 <div align="center">
 
 <a href="https://github.com/therealJao">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-therealJao-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-
-<a href="@jaopdroo_">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/jaopdroo_">
+<img src="https://img.shields.io/badge/Instagram-@jaopdroo__-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### `building quietly. improving daily.`
+### `ainda aprendendo. ainda construindo.`
 
 <br>
 
