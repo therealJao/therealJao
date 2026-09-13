@@ -82,31 +82,9 @@ A proposta é manter o projeto simples inicialmente e evoluí-lo conforme o dese
 
 <br>
 
----
 
-## `> github`
 
-<div align="center">
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=therealJao&show_icons=true&hide_border=true&bg_color=0B1020&title_color=7C83FD&icon_color=6D5DFB&text_color=A5B4FC&locale=pt-br"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealJao&layout=compact&hide_border=true&bg_color=0B1020&title_color=7C83FD&text_color=A5B4FC&locale=pt-br"
-/>
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com?user=therealJao&hide_border=true&background=0B1020&ring=6D5DFB&fire=7C83FD&currStreakLabel=A5B4FC&sideLabels=94A3B8&currStreakNum=A5B4FC&sideNums=A5B4FC&dates=94A3B8"
-/>
-
-</div>
-
-<br>
 
 ---
 
