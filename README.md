@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="./assets/background.png" width="100%" alt="therealJao — Midnight Workspace">
+  <img src="./header.png" width="100%" alt="therealJao — Midnight Workspace">
 </p>
 
 <br>
